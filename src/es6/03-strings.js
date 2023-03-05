@@ -13,3 +13,10 @@ let lorem2 = `Esta es una frase epica
 la continuación de esa frase epica`;
 console.log(lorem);
 console.log(lorem2);
+
+/* 
+Strings
+
+Template literals (comillas francesas) ayudan para la concatenación de strings en una 
+sola línea como multilínea. Es una forma muy amigable para trabajar con strings.
+*/

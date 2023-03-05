@@ -74,3 +74,13 @@ class user {
 const bebeloper1 = new user('David', 15);
 console.log(bebeloper1.uAge);
 console.log(bebeloper1.uAge = 20);
+
+/*
+Clases
+
+En informática, una clase es una plantilla para la creación de objetos de datos 
+según un modelo predefinido. Las clases se utilizan para representar entidades 
+o conceptos, como los sustantivos en el lenguaje. Cada clase es un modelo que 
+define un conjunto de variables -el estado-, y métodos apropiados para operar 
+con dichos datos -el comportamineto-.
+*/
